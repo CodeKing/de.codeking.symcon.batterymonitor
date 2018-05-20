@@ -1,0 +1,12 @@
+{
+	"id": "{533DBDCE-DB58-43D8-8E84-0293C7FD79DB}",
+	"author": "CodeKing",
+	"name": "Battery Monitor",
+	"url": "https://codeking.de",
+        "compatibility": {
+            "version": "4.4"
+        },
+        "version": "1.1",
+        "build": 0,
+        "date": 0
+}
