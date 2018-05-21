@@ -4,7 +4,7 @@
 ![Issues](https://img.shields.io/github/issues/CodeKing/de.codeking.symcon.batterymonitor.svg)<br /><br />
 <a href="https://www.paypal.me/codeking" target="_blank">![Donate](https://img.shields.io/badge/Donate-Paypal-009cde.svg)</a>
 
-**Features**
+# Features
 * read instances with battery profile attached
 * displays device status or intensity (if available)
 
